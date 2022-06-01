@@ -17,4 +17,7 @@ public class Greeting {
     public String getContent() {
         return content;
     }
+
+    public void getMessage(String name) {
+    }
 }
